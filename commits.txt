@@ -1,0 +1,23 @@
+commit 2b770a79823841837ad0db16945bab2cd93f49c9
+Author: marcko <marco.itnl@gmail.com>
+Date:   Thu Mar 5 22:41:02 2015 -0600
+
+    se agrega archivo dev
+
+commit 329a06b817253064f5b851be4312e5504670250a
+Author: marcko <marco.itnl@gmail.com>
+Date:   Thu Mar 5 22:38:58 2015 -0600
+
+    Create archivoprod.txt
+
+commit f313a97695c660dadbaac8a076fc726dd45aec06
+Author: marcko <marco.itnl@gmail.com>
+Date:   Thu Mar 5 22:37:19 2015 -0600
+
+    Create archivotest.txt
+
+commit e90798a63657a244e84537bd7abd3490104bf67f
+Author: marcko <marco.itnl@gmail.com>
+Date:   Thu Mar 5 22:35:41 2015 -0600
+
+    se agrega readme
